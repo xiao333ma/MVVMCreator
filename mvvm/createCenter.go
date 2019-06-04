@@ -1,7 +1,7 @@
 package mvvm
 
 import (
-	"./utils"
+	"MVVMCreator/mvvm/utils"
 	"fmt"
 	"os/exec"
 )

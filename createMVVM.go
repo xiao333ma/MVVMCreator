@@ -1,7 +1,7 @@
 package main
 
 import (
-	"./mvvm"
+	"MVVMCreator/mvvm"
 	"fmt"
 	"os"
 )

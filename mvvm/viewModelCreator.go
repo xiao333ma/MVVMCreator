@@ -1,8 +1,6 @@
 package mvvm
 
-import (
-	"./utils"
-)
+import "MVVMCreator/mvvm/utils"
 
 type ViewModelCreator struct {
 	Creator
